@@ -51,11 +51,9 @@ public class SH_SCRUDJFrameForm extends javax.swing.JFrame
      * Creates new form SH_SCRUDJFrameForm
      */
     public SH_SCRUDJFrameForm() 
-    {
-        
+    { 
         initComponents();
-        txtId.setVisible(false);
-        
+        txtId.setVisible(false);   
     }
 
     /**
